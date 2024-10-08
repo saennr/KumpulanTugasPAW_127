@@ -1,0 +1,6 @@
+hr {
+    border: none; /* Menghilangkan border default */
+    height: 2px; /* Ketebalan garis */
+    background-color: black; /* Warna garis */
+    width: 100%; /* Panjang garis */
+}
